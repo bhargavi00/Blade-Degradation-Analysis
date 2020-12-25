@@ -11,3 +11,4 @@ The data for reference was taken from https://www.kaggle.com/inIT-OWL/vega-shrin
 'Reference Data Analysis.ipynb' contains the analysis of the new and worn sample blade data.
 'Change Point Analysis.r' is a module in R to find points where chnages occur.
 'Comparison.ipynb' compares the one year data wrt to new and worn sample blades.
+'IF vs New.ipynb' compares results of Isolation Forest Algorithm wrt New Blade data
